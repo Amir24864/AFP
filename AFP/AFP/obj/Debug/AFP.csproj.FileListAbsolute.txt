@@ -1,0 +1,8 @@
+C:\Users\Rayaneh Pardaz\source\repos\AFP\AFP\obj\Debug\AFP.csproj.AssemblyReference.cache
+C:\Users\Rayaneh Pardaz\source\repos\AFP\AFP\obj\Debug\AFP.csproj.CoreCompileInputs.cache
+C:\Users\Rayaneh Pardaz\source\repos\AFP\AFP\bin\Debug\AFP.exe.config
+C:\Users\Rayaneh Pardaz\source\repos\AFP\AFP\bin\Debug\AFP.exe
+C:\Users\Rayaneh Pardaz\source\repos\AFP\AFP\bin\Debug\AFP.pdb
+C:\Users\Rayaneh Pardaz\source\repos\AFP\AFP\obj\Debug\AFP.exe
+C:\Users\Rayaneh Pardaz\source\repos\AFP\AFP\obj\Debug\AFP.pdb
+C:\Users\Rayaneh Pardaz\source\repos\AFP\AFP\obj\Debug\AFP.exe.config
